@@ -1,0 +1,132 @@
+@media screen and (max-width:1117px) {
+    .s1-img2{
+        display: none;
+    }
+    /* @keyframes move {
+        from{
+            margin-top: 0px;
+           }
+           to{
+            margin-top: 0px;
+           }
+    } */
+    .s1-box2{
+        /* margin-top: 50px; */
+    }
+    
+    
+}
+@media screen and (max-width:1080px){
+    .s3-box1{
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width:950px){
+    .s2-cont{
+        display: block;
+    }
+    .s2-boxes{
+        width: 100%;
+    }
+    .s2-box2{
+        margin-top: 40pX;
+    }
+}
+@media screen and (max-width:970px){
+    .s3-box1{
+        margin-top: 0;
+    }
+}
+@media screen and (max-width:860px){
+    .s1-cont{
+        display: block;
+    }
+    .s1-boxes{
+        width: 100%;
+    }
+    .s1-box2{
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width:720px){
+    .s3-cont{
+        display: block;
+    }
+    .s3-boxes{
+        width: 100%;
+        
+    }
+    .s3-box2{
+        margin-top: 30px;
+    }
+    .s4-cont{
+        display: block;
+    }
+    .s4-boxes{
+        width: 100%;
+        margin-top: 30px;
+        
+    }
+
+    
+
+   
+}
+@media screen and (max-width:550px) {
+    .s1-cont{
+        display: block;
+          
+    }
+
+    .s1-boxes{
+        width: 100%;
+    }
+    .s1-box1{
+        margin-top: 40px;
+    }
+    .s1-box2{
+        margin-top: 20px;
+    }
+    .s1-img1{
+        height: 430px;
+    }
+}
+@media screen and (max-width:470px) {
+    .s1-cont{
+        margin-top: 120px;
+    }
+    .sec2-text{
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .s1-img1{
+        height: 430px;
+    }
+    .s1-h1{
+        font-size: 30px;
+        
+    }
+}
+@media screen and (max-width:365px) {
+    
+    .s1-p1 span{
+        font-size: 20px;
+        
+    }
+    .s1-p1 {
+        font-size: 25px;
+        
+    }
+    .sec2-text{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:315px) {
+    
+    .s1-img1{
+        height: 380px;
+    }
+}
